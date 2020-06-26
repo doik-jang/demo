@@ -1,8 +1,8 @@
 package com.example.demo;
 
 public class A {
-    public static void feature10() {
-        System.out.println("feature10");
+    public static void feature12() {
+        System.out.println("feature12");
     }
     public static void feature8(){
         System.out.println("feature8");
